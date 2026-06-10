@@ -40,6 +40,10 @@
 		{
 			"Name": "DisasterRecoveryClient",
 			"Enabled": true
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
 		}
 	]
 }
